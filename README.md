@@ -12,3 +12,7 @@
 
 **Voltage Divider**: 1k + 2k Resister
 
+**Pin Configurations:**
+TRIG → GPIO 5
+ECHO → GPIO 18 (⚠️ via voltage divider) : 1kΩ + 2kΩ. GPIO18 Pin Voltage: 3.34v which safe for ESP32.
+
