@@ -16,7 +16,7 @@ namespace
 
 UltrasonicManager<1> ultrasonicManager(ultrasonicConfigs);
 
-/// @brief Logger to print logs. Do Comment or Disabled in Production. my code
+/// @brief Logger to print logs. Do Comment or Disabled in Production.
 // Small delay for readability (NOT for sensor timing)
 // 👉 Serial readability: Without delay: You’ll flood Serial Monitor (thousands of lines/sec)
 // ❌ Remove it for Production for Robot. ✅ Keep it ONLY if: Debugging via Serial
