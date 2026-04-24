@@ -1,4 +1,4 @@
-**Ultrasonic Sensor with ESP32**
+## **Ultrasonic Sensor for ESP32 based on `pulseIn()`: Blocking API**
 
 **Objective:** Obstacle detection + Distance measurement
 
